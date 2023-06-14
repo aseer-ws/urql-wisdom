@@ -1,0 +1,9 @@
+{
+  "name": "urql-wisdom",
+  "scripts": {
+    "dev": "turbo run dev"
+  },
+  "devDependencies": {
+    "turbo": "^1.10.3"
+  }
+}
